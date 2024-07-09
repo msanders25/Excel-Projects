@@ -6,7 +6,7 @@ This repository contains several projects I have completed in Excel that highlig
 ### Churn Analysis
 This project was completed to analyze churn data on a customer dataset for a telecommunications company. The goal was to identify trends in consumer behavior influencing customer churn to increase retention.
 
-Access the completed excel file *[HERE]*
+Access the completed excel file *[HERE](https://github.com/msanders25/Excel-Projects/blob/main/Churn%20Rate%20Analysis.xlsx)*
 
 The original dataset can be accessed from kaggle *[HERE](https://www.kaggle.com/c/customer-churn-prediction-2020/overview)*
 - **Title:** Customer Churn Prediction 2020
