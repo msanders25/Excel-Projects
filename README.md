@@ -8,11 +8,9 @@ This project contains the analysis for the sales perfomance of the Adidas brand 
 
 Access the completed excel file *[HERE](https://github.com/msanders25/Excel-Projects/blob/main/Sales%20Performance%20Analysis%20-%20Adidas.xlsx)*
 
-The original data set can be accessed *[HERE]*. 
-
+Access the original dataset *[HERE](https://www.youtube.com/watch?v=INtejSjK5w0&t=334s)*
 - **Title:** MYSQL Tutorial: Efficiently Importing Large CSV Files into MySQL Database with LOAD DATA INFILE
 - **Author/Uploader:** Data Analytics
-- **URL:** *https://www.youtube.com/watch?v=INtejSjK5w0&t=334s*
 - **Access Date:** July 12, 2024
 
 ### Churn Analysis
