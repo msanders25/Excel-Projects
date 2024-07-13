@@ -3,6 +3,18 @@
 ## Overview
 This repository contains several projects I have completed in Excel that highlight my proficiency in the software. The projects included here cover tasks such as data analysis and visualization to financial modeling and tax credit calculation. Within each project, I have included summary tabs with extended descriptions on what the project objective was, challenges and solutions, methods used, and actionable insights uncovered. See below.
 
+### Sales Performance Analysis
+This project contains the analysis for the sales perfomance of the Adidas brand using fictional sales data. The excel file displays visualizations reporting on several KPIs for company sales during 2020 and 2021. The data set used was pulled from a YT video and repurposed for building a sales performance dashboard to report on sales.
+
+Access the completed excel file *[HERE]*
+
+The original data set can be accessed *[HERE]*. 
+
+- **Title:** MYSQL Tutorial: Efficiently Importing Large CSV Files into MySQL Database with LOAD DATA INFILE
+- **Author/Uploader:** Data Analytics
+- **URL:** *https://www.youtube.com/watch?v=INtejSjK5w0&t=334s*
+- **Access Date:** July 12, 2024
+
 ### Churn Analysis
 This project was completed to analyze churn data on a customer dataset for a telecommunications company. The goal was to identify trends in consumer behavior influencing customer churn to increase retention.
 
