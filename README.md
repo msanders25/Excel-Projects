@@ -6,7 +6,7 @@ This repository contains several projects I have completed in Excel that highlig
 ### Sales Performance Analysis
 This project contains the analysis for the sales perfomance of the Adidas brand using fictional sales data. The excel file displays visualizations reporting on several KPIs for company sales during 2020 and 2021. The data set used was pulled from a YT video and repurposed for building a sales performance dashboard to report on sales.
 
-Access the completed excel file *[HERE]*
+Access the completed excel file *[HERE](https://github.com/msanders25/Excel-Projects/blob/main/Sales%20Performance%20Analysis%20-%20Adidas.xlsx)*
 
 The original data set can be accessed *[HERE]*. 
 
