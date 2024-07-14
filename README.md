@@ -23,3 +23,9 @@ The original dataset can be accessed from kaggle *[HERE](https://www.kaggle.com/
 - **Author:** Kostas Diamantaras
 - **Year:** 2020
 - **Publisher:** Kaggle
+
+### ERC Credit Calculation
+This calculation shows how various formulas were used in excel to calculate the employee retention credit (see summary tab in excel file). The payroll used to calculate the credit is for a ficticious law firm and was created by me.
+
+Access the completed file *[HERE]*
+
