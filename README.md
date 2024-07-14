@@ -25,7 +25,7 @@ The original dataset can be accessed from kaggle *[HERE](https://www.kaggle.com/
 - **Publisher:** Kaggle
 
 ### ERC Credit Calculation
-This calculation shows how various formulas were used in excel to calculate the employee retention credit (see summary tab in excel file). The payroll used to calculate the credit is for a ficticious law firm and was created by me.
+This calculation shows how various formulas were used in excel to calculate the employee retention credit (see summary tab in excel file). The payroll used to calculate the credit is for a fictitious law firm and was created by me.
 
-Access the completed file *[HERE]*
+Access the completed file *[HERE]
 
